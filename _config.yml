@@ -1,0 +1,28 @@
+name: VR Stuff
+favicon: null
+layout_spectrum: 0.27184501476585865
+typography_spectrum: 0.3549690607469529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.09751959191635251
+  lightness: 0.3638135502114892
+  saturation: 0.3417080931831151
+  rhythmicContrast: 0.04705626051872969
+purpose: []
