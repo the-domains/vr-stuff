@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[VR Stuff]]></title>
         <description><![CDATA[VR Stuff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vr-stuff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 16:03:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 16:03:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vr-stuff/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Guys Who Made Money Selling Mobile Ads Want to Make Money With Ads in Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>Guys Who Made Money Selling Mobile Ads Want to Make Money With Ads in Virtual Reality</h1><p>Virtual reality is in its "early days" - ask anyone involved in the field, and that's usually their chosen term. And like the genesis of social media, there's a coming mad dash of people eager for ways to cash in. On Facebook, gaming companies figured out they could spend fistfuls advertising mobile games and get paying users in return.</p><img src="https://i1.wp.com/recodetech.files.wordpress.com/2016/03/immersv-theater-screenshot-e1457564858757.png?fit=440%2C330&quality=80&strip=info&ssl=1"></article>]]></description>
+            <link>http://recode.net/2016/03/10/guys-who-made-money-selling-mobile-ads-want-to-make-money-with-ads-in-virtual-reality/</link>
+            <guid isPermaLink="false">789673de-076e-4259-aceb-54ea6d8c9902</guid>
+            <pubDate>Fri, 11 Mar 2016 16:02:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UX & Virtual Reality - Designing for interfaces without Screens]]></title>
             <description><![CDATA[<article><h1>UX & Virtual Reality - Designing for interfaces without Screens</h1><p>It's an experience that's been around since the mid­ 80s, but technology always seemed to hold it back. The advances in smartphones and related technologies have finally brought the incredible potential of VR within reach. Now, we're in the midst of a virtual reality revolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd5e16f97646d2825d59e414d8d7feeacf00ac2c.jpg"></article>]]></description>
